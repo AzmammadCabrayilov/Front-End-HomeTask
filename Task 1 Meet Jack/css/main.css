@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+.logo h1{
+    font-style: italic;
+    font-size:250%;
+}
+
+.textsection p{
+    text-align: left;
+}
+
+.textsection p span{
+    font-style: italic;
+}
+.textsection ul li {
+    text-align: left;
+}

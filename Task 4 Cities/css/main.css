@@ -1,0 +1,9 @@
+.container h2{
+    font-weight: 300;
+}
+.reddiv h2{
+    color: red;
+}
+.greendiv h2{
+    color: green;
+}
